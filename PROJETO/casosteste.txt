@@ -1,0 +1,65 @@
+    Adição e Listagem Básica
+
+Digite 1
+A Revolução dos Bichos
+George Orwell
+978-85-359-0091-0
+1945
+
+Digite 1
+1984
+George Orwell
+978-85-359-0091-1
+1949
+
+Digite 2
+National Geographic Brasil
+1677-7096
+280
+2024
+
+Digite 3
+Alice Silva
+USR001
+
+Digite 3
+Bruno Costa
+USR002
+
+Digite 7
+Digite 6
+Digite 9
+
+    Empréstimo e Devolução
+
+Digite 4
+978-85-359-0091-0
+USR001
+
+Digite 4
+978-85-359-0091-1
+USR002
+
+Digite 8
+Digite 6
+
+Digite 5
+978-85-359-0091-0
+USR001
+
+Digite 8
+Digite 6
+
+    Tratamento de Erros e Persistência
+
+Digite 4
+999-99-999-9999-9
+USR001
+
+Digite 4
+978-85-359-0091-0
+USR999
+
+Digite 5
+978-85-359-0091-0
+USR001
